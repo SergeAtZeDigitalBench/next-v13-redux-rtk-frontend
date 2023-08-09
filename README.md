@@ -1,3 +1,11 @@
+By Artcile: https://hackernoon.com/how-to-manage-state-in-nextjs-13-using-redux-toolkit
+
+- to start, clone a BE app: https://github.com/drogon98/nestjs-jwt?ref=hackernoon.com
+, or here: https://github.com/SergeAtZeDigitalBench/nest-js-server
+- `yarn start:dev` will run server, which api we are going to call;
+
+- clone this repo & install
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
